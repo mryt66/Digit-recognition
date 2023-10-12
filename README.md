@@ -1,2 +1,3 @@
 # Digit-recognition
-PyTorch, Matplotplib, Neural networks
+Digit recognition using PyTorch and neural networks
+
