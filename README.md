@@ -13,8 +13,10 @@ Here are some examples of how it works:
 
 <p align="center">
   <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/2b4e8727-9610-432b-b401-9e950ccfcbde" />
+ 
+<img src="https://github.com/mryt66/Digit-recognition/assets/64143856/c6310242-076b-425a-b8bf-9c34ec434102" />
   <br />
-  Example for number '2' 
+  Example for number '2' from random Captcha screen
 </p>
 
 
