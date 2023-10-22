@@ -1,7 +1,7 @@
 # Digit-recognition
 Digit recognition using PyTorch and neural networks
+I also created a script which resize every image thay user upload into program into 28 x 28 px .png file
 Here are some examples of how it works:
-
 <p align="center">
   <p>
     It trains on special dataset from MNIST library and then calculates the result after each epoch
@@ -39,6 +39,8 @@ Here are some examples of how it works:
   <br />
   Example for number '7' from paint
 </p>
+
+When it comes to regular square .png images, the program handles them well. However, issues can arise when working with non-square .png files, such as one with a resolution of 200 x 800 pixels. In such cases, the program may produce unexpected results. While a perfect square isn't necessary, the image should have dimensions that mimic a square to ensure the program works as intended.
 
 
 
