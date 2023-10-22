@@ -2,6 +2,9 @@
 Digit recognition using PyTorch and neural networks
 Here are some examples of how it works:
 <p align="center">
+  <p>
+    It trains on special dataset from MNIST library and then calculates the result after each epoch
+  </p>
   <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/65b7a377-ad87-432f-a4ca-bd623ca28c5a" />
   <p>
     It trains on special dataset from MNIST library and then calculates the result after each epoch
