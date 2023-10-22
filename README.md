@@ -32,3 +32,14 @@ Here are some examples of how it works:
   Example for number '6' from random Captcha screen
 </p>
 
+<p align="center">
+  I tried also the "hand made" examples that I did in paint and here is how it looks:
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/d9243d91-4f76-4f2e-a387-3de094aa455eS" />
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/4518b47e-3cf3-48b8-8b56-c26c96cc8286" />
+  <br />
+  Example for number '7' from paint
+</p>
+
+
+
+
