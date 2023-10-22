@@ -39,7 +39,11 @@ Here are some examples of how it works:
   <br />
   Example for number '7' from paint
 </p>
+<h4>
+  Summary
+</h4>
 <p align="center">
+  Program is working with around 97% accuracy for MNIST library and 90% of the time for other .png (I tried 10 examples)
   When it comes to regular square .png images, the program handles them well. However, issues can arise when working with non-square .png files, such as one with a resolution of 200 x 800 pixels. In such cases, the program may produce unexpected results. While a perfect square isn't necessary, the image should have dimensions that mimic a square to ensure the program works as intended.
 </p>
 
