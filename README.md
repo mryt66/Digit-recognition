@@ -10,19 +10,24 @@ Here are some examples of how it works:
   <br />
 </p>
 
-
-<p align="center">
-  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/2b4e8727-9610-432b-b401-9e950ccfcbde" />
- 
-<img src="https://github.com/mryt66/Digit-recognition/assets/64143856/c6310242-076b-425a-b8bf-9c34ec434102" />
-  <br />
-  Example for number '2' from random Captcha screen
-</p>
-
-
 <p align="center">
   <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/0180ec3d-0932-4155-817e-3b3766e022e0" />
   <br />
   Example for number '2' from MNIST library 
+</p>
+
+<p align="center">
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/2b4e8727-9610-432b-b401-9e950ccfcbde" />
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/c6310242-076b-425a-b8bf-9c34ec434102" />
+  <br />
+  Example for number '2' from random Captcha screen
+</p>
+
+<p align="center">
+  For example below it didn't work because of the quality after program resized the .png image
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/53d8b0f2-1d40-4956-bde7-577b9a57737a" />
+  <img src="https://github.com/mryt66/Digit-recognition/assets/64143856/42edf800-6a89-40eb-8b96-0b8707c2cded" />
+  <br />
+  Example for number '6' from random Captcha screen
 </p>
 
